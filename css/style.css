@@ -1,6 +1,7 @@
-body{
+body {
     font-family: 'Roboto', sans-serif;
 }
+
 main {
     width: 1000px;
     margin: 0 auto;
@@ -15,20 +16,22 @@ main {
     border-radius: 30px;
 
 }
-.left-content h1{
+
+.left-content h1 {
     font-size: 38px;
 }
-.left-content button{
+
+.left-content button {
     padding: 8px 10px;
     border-radius: 16px;
     border: 1px solid rgb(156, 160, 156);
-    background-color:#DD0000;
+    background-color: #DD0000;
     ;
     color: #fff;
     font-size: 16px;
     letter-spacing: 2px;
 }
 
-.left-content button:hover{
+.left-content button:hover {
     color: rgb(197, 201, 201);
 }
